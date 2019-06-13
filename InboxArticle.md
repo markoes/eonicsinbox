@@ -1,4 +1,4 @@
-# Title of amazing article
+# Title of YOUR amazing article
 
 *Every Inbox article has an introdution section before the real article starts. This should be a short piece of text providing an overview of what the article will be about. It is also possible to have a header image for your article, but this is not mandatory.*
 
